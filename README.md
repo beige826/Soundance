@@ -4,9 +4,9 @@
 
 Soundance 是一款面向 macOS 的菜单栏音频工具，把应用音量、设备切换、音效和场景配置集中在一个中文面板里。压低背景音乐、切换耳机、为不同应用选择输出，日常调音不用在多个设置页面之间来回寻找。
 
-**当前版本：1.0.2** · macOS 14.2+ · Apple Silicon
+**当前版本：1.0.3** · macOS 14.2+ · Apple Silicon
 
-[下载 DMG](https://github.com/beige826/Soundance/releases/download/v1.0.2/Soundance-1.0.2.dmg) · [下载 ZIP](https://github.com/beige826/Soundance/releases/download/v1.0.2/Soundance-1.0.2.zip) · [版本说明](https://github.com/beige826/Soundance/releases/tag/v1.0.2) · [官网](https://soundance.top)
+[下载 DMG](https://github.com/beige826/Soundance/releases/download/v1.0.3/Soundance-1.0.3.dmg) · [下载 ZIP](https://github.com/beige826/Soundance/releases/download/v1.0.3/Soundance-1.0.3.zip) · [版本说明](https://github.com/beige826/Soundance/releases/tag/v1.0.3) · [官网](https://soundance.top)
 
 ## 基础功能永久免费，Pro 一次买断
 
@@ -58,13 +58,13 @@ Soundance 是一款面向 macOS 的菜单栏音频工具，把应用音量、设
 
 ### DMG 安装
 
-1. 下载 [Soundance-1.0.2.dmg](https://github.com/beige826/Soundance/releases/download/v1.0.2/Soundance-1.0.2.dmg)。
+1. 下载 [Soundance-1.0.3.dmg](https://github.com/beige826/Soundance/releases/download/v1.0.3/Soundance-1.0.3.dmg)。
 2. 打开磁盘映像，将 **Soundance** 拖到旁边的 **Applications（应用程序）** 文件夹。
 3. 复制完成后推出安装磁盘，从“应用程序”文件夹打开 Soundance。
 
 ### ZIP 安装
 
-1. 下载 [Soundance-1.0.2.zip](https://github.com/beige826/Soundance/releases/download/v1.0.2/Soundance-1.0.2.zip)。
+1. 下载 [Soundance-1.0.3.zip](https://github.com/beige826/Soundance/releases/download/v1.0.3/Soundance-1.0.3.zip)。
 2. 解压，将 **Soundance.app** 拖入“应用程序”文件夹。
 3. 打开 Soundance，按照系统提示授予所需权限。
 
@@ -76,7 +76,7 @@ Soundance 运行后显示在菜单栏。更新已有版本时，可在应用内�
 
 - **14 天 Pro 试用**：首次打开自动开始计时，即使首次打开时离线也会记录起点。联网后核验，沿用当前 Mac 已有的试用截止时间，升级或重装不会重新赠送试用。
 - **到期提醒**：剩余 5 天、3 天、1 天和 2 小时时各提醒一次；错过多个节点时，再次打开只显示最近一条。
-- **到期后继续免费使用**：Pro 功能停用，可在通用设置中选择显示或隐藏锁定按钮。高级设置仍保存，购买后可恢复；基础功能继续免费。
+- **按钮显示与到期提示**：试用期间，Pro 按钮保持显示，相关开关开启且不可关闭。试用结束后开关仍保持开启，可在通用设置中手动关闭。顶部免费版提示可单独关闭并记住选择，不影响按钮显示设置。Pro 功能到期停用，高级设置仍保存，基础功能继续免费。
 - **本机 Pro 永久授权**：获得授权码后，在应用内输入并联网激活，授权绑定当前 Mac。有效的已有永久授权无需重复购买。
 - **定期验证授权**：启动时及使用期间每 6 小时联网检查，短暂断网自动重试；持续无法验证时暂时停用 Pro，免费功能不受影响。退款或换机后，原许可证会在校验确认后停用，设置仍保存。1.0 及更早版本需升级后才能接收此状态。
 - **在线购买**：单台 Mac Pro 永久授权 ¥9.90，前往[购买页](https://license.soundance.top/purchase)使用支付宝付款，确认到账后自动领取授权码。微信支付开通中；换机及退款问题请通过下方邮箱咨询。
