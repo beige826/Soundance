@@ -4,9 +4,9 @@
 
 Soundance 是一款面向 macOS 的菜单栏音频工具，把应用音量、设备切换、音效和场景配置集中在一个中文面板里。压低背景音乐、切换耳机、为不同应用选择输出，日常调音不用在多个设置页面之间来回寻找。
 
-**当前版本：1.0** · macOS 14.2+ · Apple Silicon
+**当前版本：1.0.2** · macOS 14.2+ · Apple Silicon
 
-[下载 DMG](https://github.com/beige826/Soundance/releases/download/v1.0/Soundance-1.0.dmg) · [下载 ZIP](https://github.com/beige826/Soundance/releases/download/v1.0/Soundance-1.0.zip) · [版本说明](https://github.com/beige826/Soundance/releases/tag/v1.0) · [官网](https://soundance.top)
+[下载 DMG](https://github.com/beige826/Soundance/releases/download/v1.0.2/Soundance-1.0.2.dmg) · [下载 ZIP](https://github.com/beige826/Soundance/releases/download/v1.0.2/Soundance-1.0.2.zip) · [版本说明](https://github.com/beige826/Soundance/releases/tag/v1.0.2) · [官网](https://soundance.top)
 
 ## 基础功能永久免费，Pro 一次买断
 
@@ -42,6 +42,7 @@ Soundance 是一款面向 macOS 的菜单栏音频工具，把应用音量、设
 - **快捷操作**：免费自定义面板、系统静音、音量增减和循环切换输出的快捷键；Pro 支持在菜单栏图标上滚动调节系统音量。
 - **音量记忆**：分别保存应用与设备设置，减少重复调整。
 - **中文与明暗外观**：菜单栏入口、中文界面、紧凑模式，以及区分输入与输出的音量浮窗。
+- **主面板按需精简**：可在「设置 → 通用」隐藏已锁定的 Pro 按钮；功能提示中的入口可以直接跳转到该开关。
 - **统一处理开关**：暂停软件音频处理时保留配置，需要时再恢复。设备支持的系统音量控制仍可使用。
 
 ## 系统要求
@@ -49,7 +50,7 @@ Soundance 是一款面向 macOS 的菜单栏音频工具，把应用音量、设
 - **操作系统**：macOS 14.2 或更新版本。
 - **芯片支持**：Apple Silicon。
 - **权限**：分应用音频处理需要按系统提示授予音频录制相关权限；连接已配对蓝牙设备时可能需要蓝牙权限。
-- **网络**：免费功能无需联网；Pro 试用验证及首次授权激活需要联网。
+- **网络**：免费功能无需联网；Pro 试用、激活及定期授权校验需要联网。
 
 ## 下载与安装
 
@@ -57,13 +58,13 @@ Soundance 是一款面向 macOS 的菜单栏音频工具，把应用音量、设
 
 ### DMG 安装
 
-1. 下载 [Soundance-1.0.dmg](https://github.com/beige826/Soundance/releases/download/v1.0/Soundance-1.0.dmg)。
+1. 下载 [Soundance-1.0.2.dmg](https://github.com/beige826/Soundance/releases/download/v1.0.2/Soundance-1.0.2.dmg)。
 2. 打开磁盘映像，将 **Soundance** 拖到旁边的 **Applications（应用程序）** 文件夹。
 3. 复制完成后推出安装磁盘，从“应用程序”文件夹打开 Soundance。
 
 ### ZIP 安装
 
-1. 下载 [Soundance-1.0.zip](https://github.com/beige826/Soundance/releases/download/v1.0/Soundance-1.0.zip)。
+1. 下载 [Soundance-1.0.2.zip](https://github.com/beige826/Soundance/releases/download/v1.0.2/Soundance-1.0.2.zip)。
 2. 解压，将 **Soundance.app** 拖入“应用程序”文件夹。
 3. 打开 Soundance，按照系统提示授予所需权限。
 
@@ -75,9 +76,9 @@ Soundance 运行后显示在菜单栏。更新已有版本时，可在应用内�
 
 - **14 天 Pro 试用**：首次打开自动开始计时，即使首次打开时离线也会记录起点。联网后核验，沿用当前 Mac 已有的试用截止时间，升级或重装不会重新赠送试用。
 - **到期提醒**：剩余 5 天、3 天、1 天和 2 小时时各提醒一次；错过多个节点时，再次打开只显示最近一条。
-- **到期后继续免费使用**：Pro 功能停用，按钮保留锁标识，点击可查看解锁说明。高级设置仍保存，购买后可恢复；基础功能继续免费。
-- **本机 Pro 永久授权**：获得授权码后，在应用内输入并联网激活，授权绑定当前 Mac。已有永久授权直接解锁 Pro，无需重复购买。
-- **激活后离线使用**：成功激活后无需持续联网；重装恢复或换机时需要再次联网。
+- **到期后继续免费使用**：Pro 功能停用，可在通用设置中选择显示或隐藏锁定按钮。高级设置仍保存，购买后可恢复；基础功能继续免费。
+- **本机 Pro 永久授权**：获得授权码后，在应用内输入并联网激活，授权绑定当前 Mac。有效的已有永久授权无需重复购买。
+- **定期验证授权**：启动时及使用期间每 6 小时联网检查，短暂断网自动重试；持续无法验证时暂时停用 Pro，免费功能不受影响。退款或换机后，原许可证会在校验确认后停用，设置仍保存。1.0 及更早版本需升级后才能接收此状态。
 - **在线购买**：单台 Mac Pro 永久授权 ¥9.90，前往[购买页](https://license.soundance.top/purchase)使用支付宝付款，确认到账后自动领取授权码。微信支付开通中；换机及退款问题请通过下方邮箱咨询。
 
 ## 权限与隐私
@@ -86,7 +87,7 @@ Soundance 使用系统提供的音频接口处理应用声音。音频在本机�
 
 系统出现音频录制相关权限提示，是因为分应用调音需要访问应用输出的音频。权限页面的具体名称可能因 macOS 版本不同而变化。
 
-试用验证会向授权服务发送设备标识摘要；激活时还会发送授权码，用于验证授权并绑定当前 Mac。上述请求不包含音频内容。
+试用验证会向授权服务发送设备标识摘要；激活时还会发送授权码。后续 Pro 校验发送签名许可证与设备标识摘要，用于核验订单状态和 Mac 绑定。上述请求不包含音频内容。
 
 ## 使用前请了解
 
