@@ -8,7 +8,7 @@ Soundance 是一款面向 macOS 的菜单栏音频工具，把应用音量、设
 
 [下载 DMG](https://soundance.top/downloads/Soundance-1.3.dmg) · [下载 ZIP](https://soundance.top/downloads/Soundance-1.3.zip) · [版本说明](https://soundance.top/releases#release-13) · [GitHub 备用下载](https://github.com/beige826/Soundance/releases/latest) · [官网](https://soundance.top)
 
-精简主面板，移除「应用音量」标题并隐藏 macOS 后台服务。
+精简主面板的应用音量区域，隐藏 macOS 后台服务，并新增可用更新提示。
 
 ## 基础功能永久免费，Pro 一次买断
 
