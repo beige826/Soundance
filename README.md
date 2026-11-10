@@ -4,11 +4,11 @@
 
 Soundance 是一款面向 macOS 的菜单栏音频工具，把应用音量、设备切换、音效和场景配置集中在一个中文面板里。压低背景音乐、切换耳机、为不同应用选择输出，日常调音不用在多个设置页面之间来回寻找。
 
-**当前版本：1.2** · macOS 14.2+ · Apple Silicon
+**当前版本：1.3** · macOS 14.2+ · Apple Silicon
 
-[下载 DMG](https://soundance.top/downloads/Soundance-1.2.dmg) · [下载 ZIP](https://soundance.top/downloads/Soundance-1.2.zip) · [版本说明](https://soundance.top/releases#release-12) · [GitHub 备用下载](https://github.com/beige826/Soundance/releases/latest) · [官网](https://soundance.top)
+[下载 DMG](https://soundance.top/downloads/Soundance-1.3.dmg) · [下载 ZIP](https://soundance.top/downloads/Soundance-1.3.zip) · [版本说明](https://soundance.top/releases#release-13) · [GitHub 备用下载](https://github.com/beige826/Soundance/releases/latest) · [官网](https://soundance.top)
 
-新增主面板玻璃效果调节，可在设置中实时预览，从通透到浓厚自由选择。
+精简主面板，移除「应用音量」标题并隐藏 macOS 后台服务。
 
 ## 基础功能永久免费，Pro 一次买断
 
@@ -26,7 +26,7 @@ Soundance 是一款面向 macOS 的菜单栏音频工具，把应用音量、设
 
 ### 每个 App，单独调节
 
-免费分别调整各应用的音量，让音乐、视频和会议声音保持合适的比例。Pro 支持应用静音与“独听”，临时静音其他被 Soundance 识别并处理的应用。应用设置可以记忆，下次使用时不用从头调整。
+免费分别调整各应用的音量，让音乐、视频和会议声音保持合适的比例。Pro 支持应用静音与“独听”，临时静音其他被 Soundance 识别并处理的应用。应用设置可以记忆，下次使用时不用从头调整。主面板会隐藏 macOS 后台服务。
 
 ### 声音去哪里，由你选择
 
@@ -61,13 +61,13 @@ Soundance 是一款面向 macOS 的菜单栏音频工具，把应用音量、设
 
 ### DMG 安装
 
-1. 下载 [Soundance-1.2.dmg](https://soundance.top/downloads/Soundance-1.2.dmg)。
+1. 下载 [Soundance-1.3.dmg](https://soundance.top/downloads/Soundance-1.3.dmg)。
 2. 打开磁盘映像，将 **Soundance** 拖到旁边的 **Applications（应用程序）** 文件夹。
 3. 复制完成后推出安装磁盘，从“应用程序”文件夹打开 Soundance。
 
 ### ZIP 安装
 
-1. 下载 [Soundance-1.2.zip](https://soundance.top/downloads/Soundance-1.2.zip)。
+1. 下载 [Soundance-1.3.zip](https://soundance.top/downloads/Soundance-1.3.zip)。
 2. 解压，将 **Soundance.app** 拖入“应用程序”文件夹。
 3. 打开 Soundance，按照系统提示授予所需权限。
 
