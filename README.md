@@ -4,9 +4,11 @@
 
 Soundance 是一款面向 macOS 的菜单栏音频工具，把应用音量、设备切换、音效和场景配置集中在一个中文面板里。压低背景音乐、切换耳机、为不同应用选择输出，日常调音不用在多个设置页面之间来回寻找。
 
-**当前版本：1.0.3** · macOS 14.2+ · Apple Silicon
+**当前版本：1.1** · macOS 14.2+ · Apple Silicon
 
-[下载 DMG](https://github.com/beige826/Soundance/releases/download/v1.0.3/Soundance-1.0.3.dmg) · [下载 ZIP](https://github.com/beige826/Soundance/releases/download/v1.0.3/Soundance-1.0.3.zip) · [版本说明](https://github.com/beige826/Soundance/releases/tag/v1.0.3) · [官网](https://soundance.top)
+[下载 DMG](https://soundance.top/downloads/Soundance-1.1.dmg) · [下载 ZIP](https://soundance.top/downloads/Soundance-1.1.zip) · [版本说明](https://soundance.top/releases#release-11) · [GitHub 备用下载](https://github.com/beige826/Soundance/releases/latest) · [官网](https://soundance.top)
+
+新增外观主题与明暗模式选择，优化面板布局、设置交互和应用音量控制。
 
 ## 基础功能永久免费，Pro 一次买断
 
@@ -16,7 +18,7 @@ Soundance 是一款面向 macOS 的菜单栏音频工具，把应用音量、设
 | 手动切换输入、输出和已配对蓝牙设备 | 分应用输出、多设备播放 |
 | 分应用音量、应用与设备音量记忆 | 五段均衡器、音色预设与音量增强 |
 | 设备别名、列表排序、基础快捷键 | 声音场景、设备优先级自动切换 |
-| 中文界面、明暗外观、紧凑模式、音量浮窗 | 菜单栏滚轮调音量 |
+| 中文界面、五套主题、明暗外观、紧凑模式、音量浮窗 | 菜单栏滚轮调音量 |
 
 免费功能无需激活或联网。首次打开自动开始 14 天 Pro 试用；试用结束后，Pro 功能停用，高级设置仍会保存，购买激活后可恢复使用。基础功能继续免费。
 
@@ -41,9 +43,9 @@ Soundance 是一款面向 macOS 的菜单栏音频工具，把应用音量、设
 - **多设备播放 · Pro**：配置 2–4 个输出设备，同时播放经过 Soundance 处理的应用音频，分别调整各路软件音量。
 - **快捷操作**：免费自定义面板、系统静音、音量增减和循环切换输出的快捷键；Pro 支持在菜单栏图标上滚动调节系统音量。
 - **音量记忆**：分别保存应用与设备设置，减少重复调整。
-- **中文与明暗外观**：菜单栏入口、中文界面、紧凑模式，以及区分输入与输出的音量浮窗。
-- **主面板按需精简**：可在「设置 → 通用」隐藏已锁定的 Pro 按钮；功能提示中的入口可以直接跳转到该开关。
-- **统一处理开关**：暂停软件音频处理时保留配置，需要时再恢复。设备支持的系统音量控制仍可使用。
+- **外观主题与明暗模式**：提供经典灰绿、翡翠绿、海洋蓝、鸢尾紫和暖琥珀五套主题；浅色、深色或跟随系统可独立选择，主面板与设置同步生效。
+- **主面板按需精简**：面板宽度 400 pt，高度随内容调整；支持紧凑模式，可在「设置 → 通用」隐藏已锁定的 Pro 按钮。
+- **独立控制应用音量**：默认开启。关闭后隐藏主面板的应用音量区域，并暂停各应用独立的音量、静音与输出配置，保留已保存设置；设备级音效和系统音量控制仍可使用。
 
 ## 系统要求
 
@@ -54,21 +56,21 @@ Soundance 是一款面向 macOS 的菜单栏音频工具，把应用音量、设
 
 ## 下载与安装
 
-前往 [Releases](https://github.com/beige826/Soundance/releases/latest) 获取最新版本，以下两种安装方式任选其一。
+前往[官网下载](https://soundance.top/#download)获取最新版本，也可使用 [GitHub 备用下载](https://github.com/beige826/Soundance/releases/latest)。以下两种安装方式任选其一。
 
 ### DMG 安装
 
-1. 下载 [Soundance-1.0.3.dmg](https://github.com/beige826/Soundance/releases/download/v1.0.3/Soundance-1.0.3.dmg)。
+1. 下载 [Soundance-1.1.dmg](https://soundance.top/downloads/Soundance-1.1.dmg)。
 2. 打开磁盘映像，将 **Soundance** 拖到旁边的 **Applications（应用程序）** 文件夹。
 3. 复制完成后推出安装磁盘，从“应用程序”文件夹打开 Soundance。
 
 ### ZIP 安装
 
-1. 下载 [Soundance-1.0.3.zip](https://github.com/beige826/Soundance/releases/download/v1.0.3/Soundance-1.0.3.zip)。
+1. 下载 [Soundance-1.1.zip](https://soundance.top/downloads/Soundance-1.1.zip)。
 2. 解压，将 **Soundance.app** 拖入“应用程序”文件夹。
 3. 打开 Soundance，按照系统提示授予所需权限。
 
-Soundance 运行后显示在菜单栏。更新已有版本时，可在应用内检查更新；手动替换时，请先退出正在运行的 Soundance。
+Soundance 运行后显示在菜单栏。更新已有版本时，可在应用内检查更新；手动替换时，请先退出正在运行的 Soundance。应用内更新清单与安装包均从官网的 Cloudflare 服务下载，不依赖 GitHub。
 
 请下载名称为 **Soundance-版本号.dmg** 或 **Soundance-版本号.zip** 的附件。GitHub 自动生成的 **Source code** 附件是本仓库文件快照，不是应用安装包。
 
