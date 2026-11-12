@@ -4,11 +4,11 @@
 
 Soundance（声动）是一款面向 macOS 的菜单栏音频工具，把应用音量、设备切换、音效和场景配置集中在一个中文面板里。压低背景音乐、切换耳机、为不同应用选择输出，日常调音不用在多个设置页面之间来回寻找。
 
-**当前版本：1.3** · macOS 14.2+ · Apple Silicon
+**当前版本：1.4** · macOS 14.2+ · Apple Silicon
 
-[下载 DMG](https://soundance.top/downloads/Soundance-1.3.dmg) · [下载 ZIP](https://soundance.top/downloads/Soundance-1.3.zip) · [版本说明](https://soundance.top/releases#release-13) · [GitHub 备用下载](https://github.com/beige826/Soundance/releases/latest) · [官网](https://soundance.top)
+[下载 DMG](https://soundance.top/downloads/Soundance-1.4.dmg) · [下载 ZIP](https://soundance.top/downloads/Soundance-1.4.zip) · [版本说明](https://soundance.top/releases#release-14) · [GitHub 备用下载](https://github.com/beige826/Soundance/releases/latest) · [官网](https://soundance.top)
 
-精简主面板的应用音量区域，隐藏 macOS 后台服务，并新增可用更新提示。
+优化界面和液态玻璃效果。
 
 ## 基础功能永久免费，Pro 一次买断
 
@@ -61,13 +61,13 @@ Soundance（声动）是一款面向 macOS 的菜单栏音频工具，把应用�
 
 ### DMG 安装
 
-1. 下载 [Soundance-1.3.dmg](https://soundance.top/downloads/Soundance-1.3.dmg)。
+1. 下载 [Soundance-1.4.dmg](https://soundance.top/downloads/Soundance-1.4.dmg)。
 2. 打开磁盘映像，将 **Soundance** 拖到旁边的 **Applications（应用程序）** 文件夹。
 3. 复制完成后推出安装磁盘，从“应用程序”文件夹打开 Soundance。
 
 ### ZIP 安装
 
-1. 下载 [Soundance-1.3.zip](https://soundance.top/downloads/Soundance-1.3.zip)。
+1. 下载 [Soundance-1.4.zip](https://soundance.top/downloads/Soundance-1.4.zip)。
 2. 解压，将 **Soundance.app** 拖入“应用程序”文件夹。
 3. 打开 Soundance，按照系统提示授予所需权限。
 
