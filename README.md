@@ -45,7 +45,7 @@ Soundance 是一款 Mac 菜单栏音频工具。调节每个 App 的音量、切
 
 适用于 Apple 芯片（M 系列）的 Mac，需要 macOS 14.2 或更新版本。
 
-[下载 DMG](https://soundance.top/downloads/Soundance-1.4.dmg) · [下载 ZIP](https://soundance.top/downloads/Soundance-1.4.zip) · [GitHub 备用下载](https://github.com/beige826/Soundance/releases/latest)
+[下载 DMG](https://soundance.top/downloads/Soundance-1.5.dmg) · [下载 ZIP](https://soundance.top/downloads/Soundance-1.5.zip) · [GitHub 备用下载](https://github.com/beige826/Soundance/releases/latest)
 
 ### 安装步骤
 
@@ -53,7 +53,7 @@ Soundance 是一款 Mac 菜单栏音频工具。调节每个 App 的音量、切
 2. 从「应用程序」打开 Soundance。启动后，点击菜单栏里的 Soundance 图标即可开始使用。
 3. 更新已有版本时，请先退出正在运行的 Soundance，再替换安装。
 
-从 GitHub 下载时，请选择 **Soundance-1.4.dmg** 或 **Soundance-1.4.zip**，不要选择自动生成的「Source code」附件。
+从 GitHub 下载时，请选择 **Soundance-1.5.dmg** 或 **Soundance-1.5.zip**，不要选择自动生成的「Source code」附件。
 
 ### 首次打开遇到 macOS 安全提示
 
