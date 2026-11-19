@@ -6,15 +6,9 @@ Soundance 是一款 Mac 菜单栏音频工具。调节每个 App 的音量、切
 
 [下载 Mac 版](#下载与安装) · [官网](https://soundance.top) · [使用帮助](https://soundance.top/guide)
 
-## 1.6 更新说明
+## 1.6.1 更新说明
 
-- 新增耳机断连保护
-- 新增通话自动降音
-- 新增场景自定义快捷键
-- 升级均衡器与曲线调节
-- 修复输出设备音量记忆异常
-- 优化设置与更新窗口界面
-- 优化开机自启
+修复软件功能
 
 ## 功能介绍
 
@@ -40,6 +34,8 @@ Soundance 是一款 Mac 菜单栏音频工具。调节每个 App 的音量、切
 | 均衡器与音色预设 | 在主面板调节各频段，查看曲线，为不同输出设备保存音色。 | 为耳机和音箱保存不同的声音风格。 |
 | 音量增强 | 在音源声音偏小时，进一步提高播放音量。 | 听清音量偏小的视频、课程或录音。 |
 | 声音场景 | 将输入输出设备、音量、应用配置和音效保存成场景，随时一键恢复。 | 为工作、开会、听歌各存一套设置，下次直接切换。 |
+| 耳机断连保护 | 播放中耳机意外断开时自动静音。 | 避免声音突然从扬声器传出。 |
+| 通话自动降音 | 通话时调低其他正在播放的应用，结束后恢复。 | 开会时自动调低音乐。 |
 | 自动切换输出 | 按你设置的设备名单与优先级，自动选择可用的输出设备。 | 在耳机和音箱之间按常用顺序切换。 |
 | 菜单栏滚轮调音量 | 在 Soundance 菜单栏图标上滚动，即可调整系统音量。 | 不打开面板，也能随手调大或调小声音。 |
 
@@ -55,7 +51,7 @@ Soundance 是一款 Mac 菜单栏音频工具。调节每个 App 的音量、切
 
 适用于 Apple 芯片（M 系列）的 Mac，需要 macOS 14.2 或更新版本。
 
-[下载 DMG](https://soundance.top/downloads/Soundance-1.6.dmg) · [下载 ZIP](https://soundance.top/downloads/Soundance-1.6.zip) · [GitHub 备用下载](https://github.com/beige826/Soundance/releases/latest)
+[下载 DMG](https://soundance.top/downloads/Soundance-1.6.1.dmg) · [下载 ZIP](https://soundance.top/downloads/Soundance-1.6.1.zip) · [GitHub 备用下载](https://github.com/beige826/Soundance/releases/latest)
 
 ### 安装步骤
 
@@ -63,7 +59,7 @@ Soundance 是一款 Mac 菜单栏音频工具。调节每个 App 的音量、切
 2. 从「应用程序」打开 Soundance。启动后，点击菜单栏里的 Soundance 图标即可开始使用。
 3. 更新已有版本时，请先退出正在运行的 Soundance，再替换安装。
 
-从 GitHub 下载时，请选择 **Soundance-1.6.dmg** 或 **Soundance-1.6.zip**，不要选择自动生成的「Source code」附件。
+从 GitHub 下载时，请选择 **Soundance-1.6.1.dmg** 或 **Soundance-1.6.1.zip**，不要选择自动生成的「Source code」附件。
 
 ### 首次打开遇到 macOS 安全提示
 
